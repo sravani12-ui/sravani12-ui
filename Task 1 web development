@@ -1,12 +1,45 @@
-- 👋 Hi, I’m @sravani12-ui
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Responsive Layout</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
 
-<!---
-sravani12-ui/sravani12-ui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <header>
+    <h1>My Website</h1>
+    <nav id="navbar">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="grid-layout">
+    <section class="content">
+      <h2>Welcome</h2>
+      <p>This is a responsive website layout using Flexbox/Grid and media queries.</p>
+    </section>
+    <aside class="sidebar">
+      <h3>Sidebar</h3>
+      <p>Additional info or links here.</p>
+    </aside>
+  </main>
+
+  <footer>
+    <p>Follow me on:</p>
+    <div class="social-links">
+      <a href="#">Facebook</a>
+      <a href="#">Twitter</a>
+      <a href="#">GitHub</a>
+    </div>
+    <p>&copy; 2025 My Website</p>
+  </footer>
+
+</body>
+</html>
