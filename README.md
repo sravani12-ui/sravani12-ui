@@ -1,9 +1,5 @@
 
 
----
-
-Improved README.md for Your GitHub Repository
-
 # Data Cleaning and Preprocessing – Titanic Dataset
 
 This repository focuses on data cleaning and preprocessing techniques using the **Titanic dataset**. It includes step-by-step code for handling missing data, encoding categorical variables, feature scaling, and outlier detection. This project also provides important interview questions related to each step.
@@ -40,15 +36,7 @@ This repository focuses on data cleaning and preprocessing techniques using the 
 - Matplotlib / Seaborn
 - Scikit-learn
 
-## Interview Questions
 
-This repo includes commonly asked interview questions based on:
-- Data preprocessing
-- Encoding techniques
-- Scaling methods
-- Handling outliers
-
-Check the `Interview_Questions.md` file for reference.
 
 ## How to Use
 
@@ -67,7 +55,7 @@ Author
 
 Sravani
 GitHub: sravani12-ui
-Email: [your email if you wish to share]
+Email: n190121@rguktn.ac.in
 
 
 ---
