@@ -1,4 +1,4 @@
-# Task 1 - Web Development
+up# Task 1 - Web Development
 
 ## Overview
 This is **Task 1** of the Web Development module. It involves building a basic web page using HTML and CSS to demonstrate an understanding of web structure and styling.
@@ -23,4 +23,10 @@ GitHub: [sravani12-ui](https://github.com/sravani12-ui)
 
 
 #screenshot 
-webpagelink:-http://localhost:8158/Task1.html
+https://github.com/sravani12-ui/sravani12-ui/blob/main/Task%201%20web%20development/screenshot.png?raw=true
+
+You can now use this link directly in your README.md:
+
+![Webpage Screenshot](https://github.com/sravani12-ui/sravani12-ui/blob/main/Task%201%20web%20development/screenshot.png?raw=true)
+
+
