@@ -23,10 +23,6 @@ GitHub: [sravani12-ui](https://github.com/sravani12-ui)
 
 
 #screenshot 
-https://github.com/sravani12-ui/sravani12-ui/blob/main/Task%201%20web%20development/screenshot.png?raw=true
-
-You can now use this link directly in your README.md:
-
-![Webpage Screenshot](https://github.com/sravani12-ui/sravani12-ui/blob/main/Task%201%20web%20development/screenshot.png?raw=true)
 
 
+![DocScanner 26 May 2025 3-56 pm](https://github.com/user-attachments/assets/b101ae21-392c-4937-b7c0-a3f244d58c6f)
