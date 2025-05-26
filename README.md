@@ -1,4 +1,91 @@
-up# Task 1 - Web Development
+
+
+---
+
+Improved README.md for Your GitHub Repository
+
+# Data Cleaning and Preprocessing – Titanic Dataset
+
+This repository focuses on data cleaning and preprocessing techniques using the **Titanic dataset**. It includes step-by-step code for handling missing data, encoding categorical variables, feature scaling, and outlier detection. This project also provides important interview questions related to each step.
+
+## Dataset
+
+- Source: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
+- Format: CSV file containing details about Titanic passengers
+
+## Key Steps Covered
+
+1. **Handling Missing Values**
+   - Dropping missing values
+   - Imputing using mean, median, and mode
+
+2. **Encoding Categorical Variables**
+   - Label Encoding
+   - One-Hot Encoding
+
+3. **Feature Scaling**
+   - Standardization
+   - Normalization
+
+4. **Outlier Detection**
+   - IQR Method
+   - Z-Score Method
+   - Boxplot Visualization
+
+## Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Scikit-learn
+
+## Interview Questions
+
+This repo includes commonly asked interview questions based on:
+- Data preprocessing
+- Encoding techniques
+- Scaling methods
+- Handling outliers
+
+Check the `Interview_Questions.md` file for reference.
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sravani12-ui/sravani12-ui.git
+
+2. Open the .ipynb file in Jupyter Notebook or Google Colab.
+
+
+3. Run the cells to explore preprocessing steps with explanations.
+
+
+
+Author
+
+Sravani
+GitHub: sravani12-ui
+Email: [your email if you wish to share]
+
+
+---
+
+Updated GitHub Repository Link:
+
+Here’s your improved repo link to submit:
+
+https://github.com/sravani12-ui/sravani12-ui
+
+
+---
+
+
+
+
+
+# Task 1 - Web Development
 
 ## Overview
 This is **Task 1** of the Web Development module. It involves building a basic web page using HTML and CSS to demonstrate an understanding of web structure and styling.
