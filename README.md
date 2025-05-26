@@ -1,5 +1,3 @@
-
-
 # Task 1 - Web Development
 
 ## Overview
@@ -23,5 +21,5 @@ This is **Task 1** of the Web Development module. It involves building a basic w
 **Sravani**  
 GitHub: [sravani12-ui](https://github.com/sravani12-ui)
 
-Let me know if you want to include a screenshot or live preview link.
+
 
